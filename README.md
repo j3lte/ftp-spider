@@ -2,7 +2,8 @@ ftp-spider
 ===========
 
 [![NPM](https://nodei.co/npm/ftp-spider.svg?downloads=true&stars=true)](https://nodei.co/npm/ftp-spider/)
-[![npm version](https://badge.fury.io/js/git-spider.svg)](http://badge.fury.io/js/git-spider)
+
+[![npm version](https://badge.fury.io/js/git-spider.svg)](http://badge.fury.io/js/ftp-spider)
 
 
 Spider through an open FTP server. This will recursively go through the file listing. It has the ability to download the files (kind of what `wget --mirror` does), although this needs further finetuning (downloading a lot of files seems to mess with the sockets). The tool can also output a JSON file with the file structure.
